@@ -1,8 +1,10 @@
  <div align="center">
   <h1> Hi there 👋, I'm Aditya </h1>
+ </div>
+ <div align="center">
   <h2> A Full Stack Java Developer </h2>
  </div>
- <div id="badges">
+ <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/adityapar20/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -10,8 +12,10 @@
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
  </div>
-
-<img src="https://github-readme-stats.vercel.app/api?username=aditya-par" />
+<div align="left">
+ <h3> My Github Stats </h3>
+ <img src="https://github-readme-stats.vercel.app/api?username=aditya-par" />
+</div>
 
 <!--
 **aditya-par/aditya-par** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
