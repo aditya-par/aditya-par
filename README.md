@@ -1,8 +1,15 @@
-  Hi there 👋, I'm Aditya
-  
-A Full Stack Java Developer
-
-<img src="https://www.linkedin.com/in/adityapar20/?style=for-the-badge&logo=linkedin&logoColor=white" /> <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />  
+ <div align="center">
+  <h1> Hi there 👋, I'm Aditya </h1>
+  <h2> A Full Stack Java Developer </h2>
+ </div>
+ <div id="badges">
+  <a href="https://www.linkedin.com/in/adityapar20/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/aditya_par/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+ </div>
 
 <img src="https://github-readme-stats.vercel.app/api?username=aditya-par" />
 
